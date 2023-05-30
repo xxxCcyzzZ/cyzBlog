@@ -15,7 +15,7 @@ cd ../xxxCcyzzZ.github.io/dist
 
 # git初始化，每次初始化不影响推送
 git init
-git add -A
+git add .
 git commit -m 'deploy'
 git branch -M main
 
