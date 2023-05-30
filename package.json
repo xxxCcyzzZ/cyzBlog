@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "cyzBlog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "repository": "/",
+  "author": "xxxCcyzzZ <1206721656@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.62"
+  },
+  "dependencies": {
+    "@vuepress/theme-default": "^2.0.0-beta.62"
+  }
+}
